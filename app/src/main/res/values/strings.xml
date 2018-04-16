@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tipcalc</string>
+    <string name="textbox_name">Enter Amount</string>
+    <string name="calc_tip">Calculate Tip!</string>
+    <string name="amount_hint">Amount</string>
+    <string name="percent10">10%</string>
+    <string name="percent15">15%</string>
+    <string name="percent18">18%</string>
+    <string name="percent20">20%</string>
+    <string name="radioGroupTitle">Select Tip Percentage</string>
+</resources>
